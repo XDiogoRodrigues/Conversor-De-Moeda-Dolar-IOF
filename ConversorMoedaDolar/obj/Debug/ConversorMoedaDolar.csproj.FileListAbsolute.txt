@@ -1,0 +1,7 @@
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\bin\Debug\ConversorMoedaDolar.exe.config
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\bin\Debug\ConversorMoedaDolar.exe
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\bin\Debug\ConversorMoedaDolar.pdb
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\obj\Debug\ConversorMoedaDolar.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\obj\Debug\ConversorMoedaDolar.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\obj\Debug\ConversorMoedaDolar.exe
+C:\Users\diogo\Desktop\MeusProjetos\ConversorMoedaDolar\ConversorMoedaDolar\obj\Debug\ConversorMoedaDolar.pdb
