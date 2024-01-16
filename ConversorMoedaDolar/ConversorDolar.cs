@@ -16,5 +16,10 @@ namespace ConversorMoedaDolar
             Value = valueDolar;
             QuoteValue = quoteValue;
         }
+
+        public double TotalQuoteValue()
+        {
+            return (QuoteValue * Value) + (QuoteValue * Value * 0.06);
+        }
     }
 }
